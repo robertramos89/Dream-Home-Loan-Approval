@@ -2,7 +2,7 @@
 Author: Robert Ramos
 
 ## Overview
-The data presented in this presentation is loan application data from Dream House loans. The dataset contains includes data that is critical for determining whether an application is approved or denied and also contains data regarding the location of the home and the loan amount requested.
+The data in this presented is loan application data from Dream House loans. The dataset contains includes data that is critical for determining whether an application is approved or denied and also contains data regarding the location of the home and the loan amount requested.
 
 ## Variables 
 Variables used in analysis
