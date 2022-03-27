@@ -27,27 +27,4 @@ See my [Google Colab](https://colab.research.google.com/drive/1uNeh7EFhDm6ErGPih
 * Imported raw data from a csv file into a dataframe
 * Cleaned data by dropping columns, correcting inconsistant values, imputing missing values and converting columns to appropriate datatypes
 * Create visualizations to explore characteristics of products and how they affect sales
-* Create machine learning models to find best fit
 
-## Results
-### Item Sales by Outlet Type
-Supermarket Type1's had the highest volume of item sales over the other 3 types of outlets combined.
-
-![](images/OutletSales.png)
-![](images/ItemSalesbyOutletTypes.png)
-
-### Item Sales by Item Category
-- Highest selling product categories are Fruits and Vegetables, Snack foods and Household products
-- Lowest selling item categories are Breakfast, Seafood and products that fall into the Others category
-![](images/ItemSalesbyItemType.png)
-
-## Summary
-Based on the data that I have analyzed, items that will sell highest in quantities are those that are sold in Supermarket Type2 outlets and top products categories that are more likely to sell than others are Fruits and Vegetables, Snack foods and Household products.
-
-
-## Recommendation
-* My recommendation to increase future sales of products would be to focus on building more Type 1 supermarkets as this will lead to the highest volume of sales across all products.
-* From comparing the two models, the Regression tree model is a better for predicting which product properties can lead to better sales. My justification for this based on the  model metrics is that is that the Decision Tree model has a higher R2 score which means that the training and testing datasets have a higher correlation and well as a lower RMSE which means that the model is more accurate at predicting in comparison to the Linear Regression Model.
-
-![](images/LR.png)
-![](images/DTR.png)
